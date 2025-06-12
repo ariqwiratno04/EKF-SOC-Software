@@ -1,4 +1,4 @@
-# Extended Kalman Filter for SOC Estimation-
+# -Extended Kalman Filter for SOC Estimation-
 This repository contains simulation models and implementation algorithms related to active cell balancing for my undergraduate thesis in electrical engineering
 
 ## Files
